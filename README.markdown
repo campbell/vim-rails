@@ -59,8 +59,8 @@ installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and
 then simply copy and paste:
 
     cd ~/.vim/bundle
-    git clone git://github.com/tpope/vim-rails.git
-    git clone git://github.com/tpope/vim-bundler.git
+    git clone http://github.com/tpope/vim-rails
+    git clone http://github.com/tpope/vim-bundler
 
 You don't strictly need [bundler.vim][], but it helps.
 
